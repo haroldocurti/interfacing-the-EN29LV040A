@@ -13,3 +13,4 @@ Address pins go from A0-A18, Data pins from Q0-Q7. We are presented also an Outp
 
 ## The Plan
 Got myself some ESP32S MCUs around and with some patience and time, read what's inside of it. Writing to it would be a bonus (I'm aiming at it).
+For ports I'll be using 3 shift registers (sn74hc595) and a bunch of wires. I have the schematics available for future reference.
